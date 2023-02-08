@@ -1,5 +1,5 @@
 # PHẦN MỀM QUẢN LÝ SẢN XUẤT TẠI CÔNG TY TNHH AN TRUNG INDUSTRIES (ATI)
-
+(https://github.com/vuvanhieu/SE)
 ## Phát biểu bài toán
 Xây dựng Phần mềm quản lý sản xuất nhằm mục đích chuẩn hóa lại quy trình, nâng
 cao hiệu quả hoạt động sản xuất, tối đa hóa năng suất của máy móc từ đó tối ưu được nguồn lực của đơn vị, đạt được các tiêu chí như sau:
@@ -17,4 +17,13 @@ việc kiểm tra và giám sát sự cố trong quá trình phát sinh.
 ### Các yêu cầu chức năng
 ### Các yêu cầu phi chức năng
 
-**Chú ý: Các nhóm trưởng gửi email link github của nhóm tới email: vuvanhieucntt@gmail.com**
+-------------------------
+* Báo cáo: Tuần 2
+* Tên nhom: Nhóm 2 (email: ......)
+* Thành viên nhóm: 
+    1. Nguyễn Văn A: 
+    2. Nguyễn Văn B: ***
+    3. Nguyễn Văn C: *****
+    
+    Trưởng nhóm đặt tên file: team-2-week2.md
+    gửi đường link github của nhóm đến mail của thầy: vuvanhieucntt@gmail.com 
