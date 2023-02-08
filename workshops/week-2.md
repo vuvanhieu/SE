@@ -17,4 +17,4 @@ việc kiểm tra và giám sát sự cố trong quá trình phát sinh.
 ### Các yêu cầu chức năng
 ### Các yêu cầu phi chức năng
 
-(Các nhóm trưởng gửi email link github của nhóm tới email: vuvanhieucntt@gmail.com)
+**Chú ý: Các nhóm trưởng gửi email link github của nhóm tới email: vuvanhieucntt@gmail.com**
