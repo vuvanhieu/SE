@@ -1,5 +1,7 @@
 # Workshop - Week-2
 
+** THIẾT KẾ GIẢI PHÁP PHẦN MỀM QUẢN LÝ SẢN XUẤT TẠI CÔNG TY TNHH AN TRUNG INDUSTRIES**
+
 # 1.	Giới thiệu
 ## 1.1	Mục đích
 ## 1.2	Phạm vi
