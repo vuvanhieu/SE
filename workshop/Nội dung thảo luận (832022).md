@@ -6,3 +6,4 @@
 ## II. Các yêu cầu hệ thống
 ### A. Các yêu cầu chức năng
 ### B. Các yêu cầu phi chức năng
+### C. Các yêu cầu giao diện người dùng
