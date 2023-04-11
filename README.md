@@ -1,5 +1,14 @@
-# SE
-Kỹ thuật phần mềm
+# SE : Kỹ thuật phần mềm
+
+Theo yêu cầu của Khoa và Môn:
+
+1. Tất cả các nhóm cần hoàn thiện và nộp báo cáo môn học vào buổi học cuối cùng (Tuần sau 19/4/2023)
+
+2. Mẫu các nhóm download tại mục workshop (tệp: Report-SE-Final-2023-1.docx hoặc Report-SE-Final-2023.pdf)
+
+Thông báo từ giáo viên ngày 11/4/2023
+
+Cảm ơn các em
 
 Các nhóm cập nhật thông tin thành viên và đề tài
 https://docs.google.com/spreadsheets/d/1CbtaMA8fH3wepuIqcwN0KVGGgJgenTVV/edit?usp=share_link&ouid=113213870346265029210&rtpof=true&sd=true
