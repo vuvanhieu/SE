@@ -1,3 +1,11 @@
+# THÔNG BÁO NGÀY 18/4/2022
+* 1. Môn học kỹ thuật phần đã kết thúc
+* 2. Các nhóm nộp bản cứng (liên hệ Thầy Trịnh Thanh Bình nhận giúp, ĐT của thầy Bình 0988 681 275)
+* 3. Các nhóm nộp bản mềm cho thầy vào email: vuvanhieucntt@gmail.com
+
+
+
+
 # SE : Kỹ thuật phần mềm
 
 Theo yêu cầu của Khoa và Môn:
