@@ -1,6 +1,6 @@
 # Lịch thi
 
-<img src="/SE/images/20.5.jpg" alt="Lịch thi ngày 20/5/2023" style="height: 100px; width:100px;"/>
+<img src="/images/20.5.jpg" alt="Lịch thi ngày 20/5/2023" style="height: 100px; width:100px;"/>
 
 
 
