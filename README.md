@@ -1,3 +1,9 @@
+# Lịch thi
+
+<img src="/SE/images/20.5.jpg" alt="Lịch thi ngày 20/5/2023" style="height: 100px; width:100px;"/>
+
+
+
 # THÔNG BÁO NGÀY 18/4/2022
 * 1. Môn học kỹ thuật phần đã kết thúc
 * 2. Các nhóm nộp bản cứng (liên hệ Thầy Trịnh Thanh Bình nhận giúp, ĐT của thầy Bình 0988 681 275)
